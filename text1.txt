@@ -1,0 +1,2 @@
+welcome to git-repo
+this is text1.txt file
